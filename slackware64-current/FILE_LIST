@@ -1,8 +1,11 @@
 -rw-------  1 root root    17919 2025-01-28 11:10 ./bchunk/bchunk-1.2.2-x86_64-1_SBo.tgz
 -rw-------  1 root root    46878 2025-01-20 11:29 ./catimg/catimg-2.7.0-x86_64-1_SBo.tgz
+-rw-rw-rw-  1 root root    48684 2025-05-30 14:21 ./speedtest-cli/speedtest-cli-2.1.3-x86_64-1cf.txz
 -rw-------  1 root root  1667397 2025-01-27 17:46 ./x264/x264-git_20210613_5db6aa6c-x86_64-1_SBo.tgz
+drwxrwxrwx  1 root root       56 2025-11-19 21:51 ./speedtest-cli
+drwxrwxrwx  1 root root       59 2025-11-19 21:52 .
+-rw-rw-rw-  1 root root       54 2025-11-19 21:52 ./FILE_LIST
 drwxrwxrwx  1 root root       51 2025-02-01 22:07 ./bchunk
 drwxrwxrwx  1 root root       51 2025-02-01 22:07 ./catimg
 drwxrwxrwx  1 root root       65 2025-02-01 22:07 ./x264
-drwxrwxrwx  1 root root      131 2025-02-01 22:08 .
--rw-rw-rw-  1 root root       54 2025-02-01 22:08 ./FILE_LIST
+-rw-rw-rw-  1 root root      376 2025-02-01 22:08 ./CHECKSUMS.md5
